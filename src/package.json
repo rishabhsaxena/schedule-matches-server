@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "@hapi/joi": "^15.1.0",
+    "axios": "^0.19.0",
+    "change-case": "^3.1.0",
+    "commons": "git+ssh://git@github.com/codalyzedev/node-commons.git",
+    "cors": "^2.8.5",
+    "moment": "^2.24.0",
+    "node-commons": "git+ssh://git@github.com/codalyzedev/node-commons.git",
+    "node-schedule": "^1.3.2",
+    "nodemon": "^1.19.1",
+    "wrap-express-middleware": "git+ssh://git@github.com/codalyzedev/wrap-express-middleware.git"
+  },
+  "main": "contants.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

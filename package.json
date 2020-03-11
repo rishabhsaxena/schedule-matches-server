@@ -1,0 +1,23 @@
+{
+  "name": "schedule-matches-server",
+  "version": "1.0.0",
+  "description": "schedule matches when trigged through create matches job",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabhsaxena/schedule-matches-server.git"
+  },
+  "keywords": [
+    "esports",
+    "tournaments"
+  ],
+  "author": "codalyzedev <mail@codalyze.com> (https://github.com/codalyzedev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabhsaxena/schedule-matches-server/issues"
+  },
+  "homepage": "https://github.com/rishabhsaxena/schedule-matches-server#readme"
+}
